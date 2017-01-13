@@ -1,0 +1,351 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "store",
+        "marker-color": "#206ae9",
+        "marker-size": "large",
+        "marker-symbol": "grocery",
+        "longitude": -121.879618,
+        "latitude": 37.255982,
+        "sequence": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.879618,
+          37.255982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e03f3b",
+        "marker-size": "small",
+        "marker-symbol": 2,
+        "title": "Slot Time:2017-01-16T08:00:00-08:00 - 2017-01-16T10:00:00-08:00\nArrival Time:2017-01-16T07:43:00-08:00\nDeparture Time:2017-01-16T08:04:00-08:00\nOrder Id:826093898",
+        "longitude": -121.934242,
+        "latitude": 37.294229,
+        "service-time": "4:0",
+        "sequence": 2,
+        "arrival-time": "2017-01-16T07:43:00-08:00",
+        "departure-time": "2017-01-16T08:04:00-08:00",
+        "order-id": "826093898"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.934242,
+          37.294229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#e03f3b",
+        "stroke-width": 2,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.879618,
+            37.255982
+          ],
+          [
+            -121.934242,
+            37.294229
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e03f3b",
+        "marker-size": "medium",
+        "marker-symbol": 3,
+        "title": "Slot Time:2017-01-16T08:00:00-08:00 - 2017-01-16T10:00:00-08:00\nArrival Time:2017-01-16T08:24:00-08:00\nDeparture Time:2017-01-16T08:28:00-08:00\nOrder Id:852114321\nSlot Time:2017-01-16T09:00:00-08:00 - 2017-01-16T11:00:00-08:00\nArrival Time:2017-01-16T09:04:00-08:00\nDeparture Time:2017-01-16T09:08:00-08:00\nOrder Id:259288907",
+        "longitude": -121.882945,
+        "latitude": 37.21818,
+        "service-time": "4:0 4:0",
+        "sequence": "3 5",
+        "arrival-time": "2017-01-16T08:24:00-08:00 2017-01-16T09:04:00-08:00",
+        "departure-time": "2017-01-16T08:28:00-08:00 2017-01-16T09:08:00-08:00",
+        "order-id": "852114321 259288907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.882945,
+          37.21818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#e03f3b",
+        "stroke-width": 2,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.934242,
+            37.294229
+          ],
+          [
+            -121.882945,
+            37.21818
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e03f3b",
+        "marker-size": "small",
+        "marker-symbol": 4,
+        "title": "Slot Time:2017-01-16T08:00:00-08:00 - 2017-01-16T10:00:00-08:00\nArrival Time:2017-01-16T08:44:00-08:00\nDeparture Time:2017-01-16T08:48:00-08:00\nOrder Id:819029484",
+        "longitude": -121.805847,
+        "latitude": 37.244033,
+        "service-time": "4:0",
+        "sequence": 4,
+        "arrival-time": "2017-01-16T08:44:00-08:00",
+        "departure-time": "2017-01-16T08:48:00-08:00",
+        "order-id": "819029484"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.805847,
+          37.244033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#e03f3b",
+        "stroke-width": 2,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.882945,
+            37.21818
+          ],
+          [
+            -121.805847,
+            37.244033
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#e03f3b",
+        "stroke-width": 2,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.805847,
+            37.244033
+          ],
+          [
+            -121.882945,
+            37.21818
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e03f3b",
+        "marker-size": "small",
+        "marker-symbol": 6,
+        "title": "Slot Time:2017-01-16T08:00:00-08:00 - 2017-01-16T10:00:00-08:00\nArrival Time:2017-01-16T09:17:00-08:00\nDeparture Time:2017-01-16T09:21:00-08:00\nOrder Id:867984902",
+        "longitude": -121.889185,
+        "latitude": 37.259238,
+        "service-time": "4:0",
+        "sequence": 6,
+        "arrival-time": "2017-01-16T09:17:00-08:00",
+        "departure-time": "2017-01-16T09:21:00-08:00",
+        "order-id": "867984902"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.889185,
+          37.259238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#e03f3b",
+        "stroke-width": 2,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.882945,
+            37.21818
+          ],
+          [
+            -121.889185,
+            37.259238
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e03f3b",
+        "marker-size": "small",
+        "marker-symbol": 7,
+        "title": "Slot Time:2017-01-16T08:00:00-08:00 - 2017-01-16T10:00:00-08:00\nArrival Time:2017-01-16T09:55:00-08:00\nDeparture Time:2017-01-16T09:59:00-08:00\nOrder Id:735866433",
+        "longitude": -122.046662,
+        "latitude": 37.325274,
+        "service-time": "4:0",
+        "sequence": 7,
+        "arrival-time": "2017-01-16T09:55:00-08:00",
+        "departure-time": "2017-01-16T09:59:00-08:00",
+        "order-id": "735866433"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.046662,
+          37.325274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#e03f3b",
+        "stroke-width": 2,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.889185,
+            37.259238
+          ],
+          [
+            -122.046662,
+            37.325274
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0f466a",
+        "marker-size": "small",
+        "marker-symbol": 9,
+        "title": "Break time:15\nSlot Time:2017-01-16T10:00:00-08:00 - 2017-01-16T12:00:00-08:00\nArrival Time:2017-01-16T10:06:00-08:00\nDeparture Time:2017-01-16T10:10:00-08:00\nOrder Id:782775031",
+        "longitude": -122.010961,
+        "latitude": 37.310552,
+        "service-time": "4:0",
+        "sequence": 8,
+        "arrival-time": "2017-01-16T10:06:00-08:00",
+        "departure-time": "2017-01-16T10:10:00-08:00",
+        "order-id": "782775031",
+        "break-time": 15,
+        "hasBreak": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.010961,
+          37.310552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#e03f3b",
+        "stroke-width": 2,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.046662,
+            37.325274
+          ],
+          [
+            -122.010961,
+            37.310552
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "store",
+        "marker-color": "#206ae9",
+        "marker-size": "large",
+        "marker-symbol": "grocery",
+        "longitude": -121.879618,
+        "latitude": 37.255982,
+        "sequence": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.879618,
+          37.255982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#e03f3b",
+        "stroke-width": 2,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.010961,
+            37.310552
+          ],
+          [
+            -121.879618,
+            37.255982
+          ]
+        ]
+      }
+    }
+  ]
+}
